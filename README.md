@@ -22,18 +22,17 @@ The **Portfolio Builder** is a web application that enables users to create, cus
   - Oversee platform activity and support users when needed.
 
 ## Technology Stack
-- **Frontend**: React.js, HTML, CSS, JavaScript
-- **Backend**: PHP, Node.js
+- **Frontend**:  HTML, CSS, JavaScript
+- **Backend**: PHP
 - **Database**: MySQL
-- **Authentication**: JWT, OTP verification
+- **Authentication**: OTP verification
 
 ## Installation
 
 ### Prerequisites:
-- Node.js installed on your system
+
 - PHP and MySQL environment (e.g., XAMPP, WAMP)
 
 ### Steps:
 1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/portfolio-builder.git
+https://github.com/Faaiz-uddin/Portfolio-Builder-Web-Application.git
